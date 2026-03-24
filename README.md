@@ -87,7 +87,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn tqdm p
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/unsw-supervised-ids.git
+git clone https://github.com/Heena-Farheen/unsw-supervised-ids.git
 cd unsw-supervised-ids
 ```
 
